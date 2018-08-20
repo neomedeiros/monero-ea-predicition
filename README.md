@@ -5,3 +5,7 @@
 <a target='_blank' href='https://coinmetrics.io/data-downloads/' >Coinmetrics.io</a>
 
 <img src='https://image.ibb.co/byb2Ce/prediction_monero.png' />
+
+Full research on:
+
+https://github.com/neomedeiros/monero-ea-predicition/blob/master/Crypto%20Monero%20-%20Exploratory%20Analysis.pdf
